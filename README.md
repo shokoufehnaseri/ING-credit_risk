@@ -1,3 +1,4 @@
+# Task – build a model to predict defaults
 Your mission is clear: construct a credit risk model that precisely assesses the probability of default
 for the bank’s clients.
 Remember, the success of this endeavor hinges on your ability to strike the right balance between
